@@ -1,0 +1,11 @@
+#root {
+  height: 250px;
+  width: 250px;
+  border: 3.5px solid white;
+  padding: 15px;
+  text-align: center;
+  top: 50%;
+  left: 45%;
+  position: relative;
+
+}
